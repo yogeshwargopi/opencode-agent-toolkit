@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  // Agents are automatically loaded from .opencode/agents/
+  
+  // Example: Uncomment to set multi as your default agent
+  // "default_agent": "multi",
+  
+  // Example: Configure your default model
+  // "model": "anthropic/claude-sonnet-5-5"
+}
